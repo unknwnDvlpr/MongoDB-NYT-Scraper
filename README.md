@@ -12,9 +12,9 @@ And for webscraping, the app uses the `request` and `cheerio` node packages. All
 
 
 Home
-![Home](.//public/assets/images/Home.jpeg)
+![Home](./public/assets/images/Home.jpeg)
 
-![Saved](.//public/assets/images/Saved.jpeg)
+![Saved](./public/assets/images/Saved.jpeg)
 
 Note
-![note](.//public/assets/images/notes.jpeg)
+![note](./public/assets/images/notes.jpeg)
