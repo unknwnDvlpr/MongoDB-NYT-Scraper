@@ -1,4 +1,4 @@
 # MongoDB-NYT-Scraper
 
-# Heroku Link
+## Heroku Link
 https://powerful-fjord-39226.herokuapp.com/
