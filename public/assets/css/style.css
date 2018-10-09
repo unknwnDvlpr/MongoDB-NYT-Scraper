@@ -1,5 +1,9 @@
 body {
+  background-image: url('https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: contain;
+
   padding-top: 70px;
+
 }
 
 .deleteNote {
@@ -13,8 +17,4 @@ body {
 
 #scrape {
   margin: 8px 0px;
-}
-
-body {
-  background: rgba(54, 77, 104, 0.733);
 }
